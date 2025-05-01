@@ -15,4 +15,4 @@ The dataset used is https://raw.githubusercontent.com/anvarnarz/praktikum_datase
 
 # 🧑‍💻 Author
 Sherzod Sanatov – Master's Student in AI
-Chonnam National University
+at Chonnam National University
