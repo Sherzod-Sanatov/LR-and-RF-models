@@ -5,9 +5,13 @@ This project aims to build and compare supervised learning models for forecastin
 
 # Features
 Data Understanding
+
 Data preprocessing and cleaning
+
 Model training: Linear Regression, Random Forest
+
 Evaluation using RMSE, MAE
+
 Visualizations and result comparison
 
 # Dataset
@@ -15,4 +19,5 @@ The dataset used is https://raw.githubusercontent.com/anvarnarz/praktikum_datase
 
 # 🧑‍💻 Author
 Sherzod Sanatov – Master's Student in AI
-at Chonnam National University
+
+Chonnam National University
